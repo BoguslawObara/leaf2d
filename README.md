@@ -3,7 +3,7 @@ leaf venation pattern simulation (python3 version)
 
 output:
 -----
-<img src="https://github.com/BoguslawObara/leaf2d/blob/master/im/veins.png" width="200">
+<img src="https://github.com/BoguslawObara/leaf2d/blob/master/im/veins.png" width="400">
 
 reference:
 -----
