@@ -9,4 +9,9 @@ reference:
 -----
 implementation of leaf venation pattern simulation based on a paper by Adam Runions et al.:
 
-[1] http://algorithmicbotany.org/papers/venation.sig2005.html 
+[1] http://algorithmicbotany.org/papers/venation.sig2005.html
+
+
+credit:
+-----
+https://github.com/inconvergent/leaf (python2 version)
