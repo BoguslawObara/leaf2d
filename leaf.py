@@ -15,6 +15,7 @@ from time import time as time
 from time import strftime
 import sys
 from scipy.spatial import Delaunay,distance
+from scipy.spatial.qhull import Delaunay
 from collections import defaultdict
 
 def timeit(method):
